@@ -107,6 +107,7 @@
 {"key":"csp_xpath_age_WN","name":"AGE动漫_WN","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://fj365.ml/xpath/agemys.json"},
 //{"key":"csp_xpath_2345_hy","name":"@2345影视_hd","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/hyundaic/xpath@master/2345.json"},
 //以下M列表--0220106--更新
+{"key":"csp_appys_xiaogui_追剧达人", "name":"追剧达人_M", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://vipmv.co/xgapp.php/v1/"},
 {"key":"csp_appys_xiaogui_3080影视", "name":"3080影视_M", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://sv.3080l.me/api.php/app/"},
 {"key":"csp_appys_xiaogui_555电影", "name":"555电影_M", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://w7tv.com/xgapp.php/v1/"},
 {"key":"csp_appys_xiaogui_5060影院", "name":"5060影院_M", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.linzhiyuan.xyz/xgapp.php/v1/"},
@@ -171,7 +172,6 @@
 {"key":"csp_appys_xiaogui_小易影视", "name":"小易影视_M", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://xy.irop.cn/api.php/app/"},
 {"key":"csp_appys_xiaogui_映迷", "name":"映迷_M", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.inmi.app/xgapp.php/v1/"},
 {"key":"csp_appys_xiaogui_影视工场", "name":"影视工场_M", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.ysgc.cc/xgapp.php/v1/"},
-{"key":"csp_appys_xiaogui_追剧达人", "name":"追剧达人_M", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://vipmv.tv/xgapp.php/v1/"},
 {"key":"csp_appys_xiaogui_(无名)", "name":"(无名)_M", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://ccxg.xazhutu.com/xgapp.php/v1/"},
 {"key":"csp_appys_v1_大熊影视", "name":"大熊影视_M", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://dxys2233.com/mogai_api.php/v1.vod"},
 {"key":"csp_appys_v1_免费看", "name":"免费看_M", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://freekan.vip/mogai_api.php/v1.vod"},
