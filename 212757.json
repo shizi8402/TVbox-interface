@@ -15,6 +15,16 @@
             "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/subaibai.json"
         },
         {
+            "key": "csp_appys_xiaogui_嘀哩嘀哩",
+            "name": "嘀哩嘀哩(M)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "xiaogui_嘀哩嘀哩"
+        },
+        {
             "key": "csp_YydsAli1",
             "name": "YYDS阿里(爬虫)",
             "type": 3,
