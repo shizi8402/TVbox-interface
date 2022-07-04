@@ -1,0 +1,34 @@
+TVBox/猫影视TV 本地（五合一懒人包）+ 网络接口（6.28整理）
+
+
+
+猫影视TV/TVBox v1.0.0（0702）：https://wwp.lanzoum.com/i8G3007c4g8d
+猫影视TV/TVBox v1.0.0（0628）：https://wwp.lanzoum.com/iHzXW071ejkh
+本地接口配置文件（五合一懒人包）：https://wwp.lanzoum.com/imclj06o663g
+
+本地接口配置文件（0701缝合版）
+ps：上传并解压本地配置文件到电视/盒子根目录（需打开存储权限），然后长按复制以下接口配置，粘贴到TVBox/猫影视TV的配置接口中！
+本地接口配置文件（0701缝合版）：https://wwp.lanzoum.com/iyRed07c4gni
+对应的接口配置：clan://localhost/TVBox/0701.json
+
+
+TVBox/猫影视TV 本地接口（五合一懒人包）：
+ps：上传并解压本地配置文件到电视/盒子根目录（需打开存储权限），然后长按复制以下接口配置，粘贴到TVBox/猫影视TV的配置接口中！
+本地接口配置文件（五合一懒人包）：https://wwp.lanzoum.com/imclj06o663g
+唐三接口配置：clan://localhost/cat/ts/xb.json
+baddychen接口配置：clan://localhost/cat/bd/68.json
+小明接口配置：clan://localhost/cat/xm/xm.json
+瓜佬接口配置：clan://localhost/cat/mm/cf.json
+小太阳接口配置：clan://localhost/cat/ty/ty.json（已失效）
+
+TVBox/猫影视TV 最新网络接口（7月4日整理）：
+PS：长按复制以下链接，粘贴到TVBox/猫影视TV的配置接口中！
+http://eee.dog/f98c32
+http://gg.gg/11mw3t
+http://gg.gg/11n06j
+https://pastebin.com/raw/sbPpDm9G
+http://www.koogg.com:8011/SHARE/0627/zl.json
+https://shuyuan.miaogongzi.net/shuyuan/1656318296.json
+https://freed.yuanhsing.cf/TVBox/meowcf.json
+http://118.190.244.195/tvmovie/zl.json
+https://dxawi.github.io/1/0618.json
