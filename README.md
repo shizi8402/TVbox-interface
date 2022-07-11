@@ -4,36 +4,25 @@
 
 - [使用方法](./usage.md)
 
-### 猫影视资源接口
+### 猫影视资源接口外链托管网址：
 
-**国内镜像**：
+1.比邻（TXT支持编辑）
+https://pan.bilnn.com/api/v3/share/invite/bmB58Te
 
-**官方**
+2.往事
+https://wp.wangshi520.com/
 
-- https://raw.fastgit.org/xlc520/MaoTV/main/guanfang.json
-- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/guanfang.json
+3.OpenDrive
+https://www.opendrive.com/
 
-**mao0209.json**
+4.书源
+https://shuyuan.miaogongzi.net/
 
-- https://raw.fastgit.org/xlc520/MaoTV/main/mao0209.json
-- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/mao0209.json
+5.晴园
+http://52qy.vaiwan.cn/up.php
 
-**mao0208.json**
-
-- https://raw.fastgit.org/xlc520/MaoTV/main/mao0208.json
-- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/mao0208.json
-
-**mao.json**
-
-- fastgit：https://raw.fastgit.org/xlc520/MaoTV/main/mao.json
-- staticaly：https://cdn.staticaly.com/gh/xlc520/MaoTV@main/mao.json
-
-**212757.json**
-
-- https://raw.fastgit.org/xlc520/MaoTV/main/212757.json
-
-**213013.json**
-- https://raw.fastgit.org/xlc520/MaoTV/main/213013.json
+6.tigerroot
+https://pan.tigerroot.cn/
 
 ### 更新
 
