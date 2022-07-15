@@ -36,7 +36,7 @@ http://mmwl.88wg.top/
 
 8、https://css.lc/
 
-9、gg.gg
+9、https://gg.gg
 
 10、nite07网盘
 
