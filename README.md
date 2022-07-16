@@ -34,13 +34,25 @@ https://pan.tigerroot.cn/
 
 http://mmwl.88wg.top/
 
-8、https://css.lc/
+8、云星、吾爱云盘（完全免费）
+
+https://pan.css.lc/
+
+Pan云盘APP、密码:49mz
+
+https://wwc.lanzoub.com/b0erzmzqf 
+
 
 9、https://gg.gg
 
 10、nite07网盘
 
 https://share.nite07.com
+
+11、ifilespace
+
+https://demo.ifile.space/main
+
 ### 更新
 
 TVbox更新后，一些在线接口的收集，主要收集一些经常维护的。
