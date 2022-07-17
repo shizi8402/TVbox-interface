@@ -43,7 +43,9 @@ Pan云盘APP、密码:49mz
 https://wwc.lanzoub.com/b0erzmzqf 
 
 
-9、https://gg.gg
+9、可以把长外链变成短外链
+
+https://gg.gg
 
 10、nite07网盘
 
