@@ -6,7 +6,7 @@
 
 ### 猫影视资源接口外链托管网址：感觉哪个好用用哪个，自己测试。
 
-1.比邻（TXT支持编辑）:
+1.比邻（TXT支持编辑）:收费啦。富裕的可以使用。
 
 https://pan.bilnn.com/api/v3/share/invite/bmB58Te
 
@@ -43,7 +43,7 @@ Pan云盘APP、密码:49mz
 https://wwc.lanzoub.com/b0erzmzqf 
 
 
-9、可以把长外链变成短外链
+9、可以把长外链变成短外链。有人说不太稳定，看自己情况。
 
 https://gg.gg
 
