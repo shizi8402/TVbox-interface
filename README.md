@@ -42,28 +42,48 @@ Pan云盘APP、密码:49mz
 
 https://wwc.lanzoub.com/b0erzmzqf 
 
-
-9、可以把长外链变成短外链。有人说不太稳定，看自己情况。
-
-https://gg.gg
-
-10、nite07网盘
+9、nite07网盘
 
 https://share.nite07.com
 
-11、ifilespace
+10、ifilespace
 
 https://demo.ifile.space/main
 
+短链接制作网址：哪个稳定自己测试。
+
+https://gg.gg
+
+https://77url.com/
+
+https://qiu.moe/
+
+解析测试：
+
+http://www.36nu.com/apiTest
+
 ### 更新
 
-TVbox更新后，一些在线接口的收集，主要收集一些经常维护的。
+多jar链接写法：
 
-1、公众号：吾爱有三日月与卿
+{"key":"***","name":"***","api":"***","type":3,"filterable":1,"quickSearch":1,"searchable":1,"plugin":"http://****/*.jar"},
 
-http://gg.gg/TVBOX-Pro
+
+
+
 
 ### 接口
+
+接口1:http://home.jundie.top:81/668.json
+接口2:https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/qiaoji.json
+接口3:http://刚刚.live/猫
+接口4:http://maoyingshi.cc/tvbox/云星日记/tvbox4.json
+接口5:https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+接口6：https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/meowcf.json
+接口7：https://gitea.com/Pandora2277/TV/raw/branch/main/Box.json
+接口8：https://freed.yuanhsing.cf/TVBox/meowcf.json
+接口9：http://home.jundie.top:81/TVBox/yosakoi.json
+
 
 2.1.0版本专用接口：
 
