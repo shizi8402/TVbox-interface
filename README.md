@@ -84,6 +84,10 @@ http://www.36nu.com/apiTest
 接口8：https://freed.yuanhsing.cf/TVBox/meowcf.json
 接口9：http://home.jundie.top:81/TVBox/yosakoi.json
 
+TVBox配置编辑器：
+
+http://118.190.244.195/cat125/
+
 
 2.1.0版本专用接口：
 
