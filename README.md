@@ -121,6 +121,25 @@ https://www.emojiall.com/zh-hans
 
 https://github.com/cloudreve/Cloudreve
 
+## 比较牛逼的仓库：
+
+唐长老：Tangsan99999 
+
+https://github.com/xingleiwu/TVBoxOSC-2
+
+o0HalfLife0o：
+
+https://github.com/o0HalfLife0o/TVBoxOSC
+
+俊佬：
+
+https://github.com/q215613905/TVBoxOS
+
+官仓：终结与2022年7月18日。封仓。
+
+https://github.com/CatVodTVOfficial/TVBoxOSC
+
+
 ### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/xlc520/MaoTV.svg)](https://starchart.cc/xlc520/MaoTV)
