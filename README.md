@@ -94,6 +94,8 @@ http://www.36nu.com/apiTest
 
 接口9：http://home.jundie.top:81/TVBox/yosakoi.json
 
+接口10：http://152.136.125.181:81/MM/dianbo/yeshijieC.txt
+
 ## TVBox配置编辑器：
 
 http://118.190.244.195/cat125/
