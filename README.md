@@ -72,11 +72,11 @@ http://www.36nu.com/apiTest
 
 ## 多jar链接写法，根据app版本来：
 
-##Pluto Player版本：
+## Pluto Player版本：
 
 {"key":"***","name":"***","api":"***","type":3,"filterable":1,"quickSearch":1,"searchable":1,"plugin":"http://****/*.jar"},
 
-##这个：
+## 这个：
 
 {"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"spider":"http://****/*.jar"},
 
