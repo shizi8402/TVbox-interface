@@ -111,6 +111,10 @@ https://funletu.com/emoji/
 
 https://www.emojiall.com/zh-hans
 
+## Cloudreve个人网盘GitHub开源地址：
+
+https://github.com/cloudreve/Cloudreve
+
 ### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/xlc520/MaoTV.svg)](https://starchart.cc/xlc520/MaoTV)
