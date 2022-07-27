@@ -143,6 +143,18 @@ https://github.com/q215613905/TVBoxOS
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
 
+## 常用工具：
+
+文本比较、json格式化：
+https://tsq.lanzouf.com/b0c4rjpsb
+密码:123
+
+开发者工具箱：
+https://1024tools.com/
+
+文本处理：
+http://www.txttool.com/
+
 
 ### Stargazers over time
 
