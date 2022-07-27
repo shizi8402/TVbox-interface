@@ -98,7 +98,18 @@ http://www.36nu.com/apiTest
 
 http://118.190.244.195/cat125/
 
+## 给TVbox站源添加符号:
 
+很多人喜欢给TVbox的站源或者电视直播频道自定义一个符号，比如下面这类，实际上就是增加了网页符号。
+
+
+![640](https://user-images.githubusercontent.com/102397160/181132511-1bfac13d-88bb-42ce-8d1a-94e253c8379d.png)
+
+这里推荐两个非常不错的网页符号复制粘贴地址。
+
+https://funletu.com/emoji/
+
+https://www.emojiall.com/zh-hans
 
 ### Stargazers over time
 
