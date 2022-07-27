@@ -70,7 +70,7 @@ http://www.36nu.com/apiTest
 
 ### 更新
 
-## 多jar链接写法：
+## 多jar链接写法，根据app版本来：
 
 {"key":"***","name":"***","api":"***","type":3,"filterable":1,"quickSearch":1,"searchable":1,"plugin":"http://****/*.jar"},
 
