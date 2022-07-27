@@ -82,7 +82,7 @@ http://www.36nu.com/apiTest
 
 接口3:http://刚刚.live/猫
 
-接口4:http://maoyingshi.cc/tvbox/云星日记/tvbox4.json
+接口4:http://maoyingshi.cc/tvbox/云星日记/tvbox1.json
 
 接口5:https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
