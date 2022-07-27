@@ -74,7 +74,9 @@ http://www.36nu.com/apiTest
 
 {"key":"***","name":"***","api":"***","type":3,"filterable":1,"quickSearch":1,"searchable":1,"plugin":"http://****/*.jar"},
 
+## 俊佬版本多jar链接写法：
 
+{"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
 
 
 
