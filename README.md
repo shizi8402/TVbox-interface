@@ -159,6 +159,14 @@ https://1024tools.com/
 文本处理：
 http://www.txttool.com/
 
+直播源批量检测工具：
+https://tsq.lanzouf.com/b0c4p2fba
+密码:123
+
+MXPlayer-Pro-1.46.10高级解锁版：
+https://tsq.lanzouf.com/b0c4p1nyf
+密码:123
+
 
 ### Stargazers over time
 
