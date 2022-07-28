@@ -7,52 +7,56 @@
 ### TVBox资源接口外链托管网址：感觉哪个好用用哪个，自己测试。
 
 1.比邻（TXT支持编辑）:收费啦。富裕的可以使用。
-
 https://pan.bilnn.com/api/v3/share/invite/bmB58Te
 
 2.往事、彩虹:
-
 https://wp.wangshi520.com/
 
 3.OpenDrive:
-
 https://www.opendrive.com/
 
 4.书源:
-
 https://shuyuan.miaogongzi.net/
 
 5.晴园:
-
 http://52qy.vaiwan.cn/up.php
 
 6.tigerroot:
-
 https://pan.tigerroot.cn/
 
 7、猫猫外链： 
-
 http://mmwl.88wg.top/
 
 8、云星、吾爱云盘（完全免费）
-
 https://pan.css.lc/
 
 Pan云盘APP、密码:49mz
-
 https://wwc.lanzoub.com/b0erzmzqf 
 
 9、nite07网盘
-
 https://share.nite07.com
 
 10、ifilespace
-
 https://demo.ifile.space/main
 
 11、惜染
-
 https://mpimg.cn/
+
+12、
+https://cloud.06dn.com/login
+
+https://pan.fgboke.com
+
+http://zuoye.free.fr/index.php
+
+https://www.lingshulian.com/
+
+https://my.ksust.com/kstore.htm
+
+https://pan.leffs.cn/Login
+
+https://demo.ifile.space/main
+
 
 ## 短链接制作网址：哪个稳定自己测试。
 
@@ -63,6 +67,24 @@ https://77url.com/
 https://qiu.moe/
 
 https://www.c1n.cn/
+
+http://pesc.pw/
+
+https://0dlj.cn/
+
+https://0a.fit/
+
+http://mtw.so/
+
+https://app.short.io/
+
+壁纸：
+http://www.kf666888.cn/api/tvbox/img
+
+https://picsum.photos/1280/720/?blur=10
+
+https://qiu.moe/a723
+
 
 ## 解析测试：
 
