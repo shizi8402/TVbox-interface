@@ -4,58 +4,43 @@
 
 - [使用方法](./usage.md)
 
-### TVBox资源接口外链托管网址：感觉哪个好用用哪个，自己测试。
+### TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，没做测试推荐。
 
-1.比邻（TXT支持编辑）:收费啦。富裕的可以使用。
-https://pan.bilnn.com/api/v3/share/invite/bmB58Te
+1.比邻（TXT支持编辑）:收费啦。富裕的可以使用。 https://pan.bilnn.com/api/v3/share/invite/bmB58Te
 
-2.往事、彩虹:
-https://wp.wangshi520.com/
+2.往事、彩虹: https://wp.wangshi520.com/   不能在线编辑
 
-3.OpenDrive:
-https://www.opendrive.com/
+3.书源: https://shuyuan.miaogongzi.net/   不能在线编辑
 
-4.书源:
-https://shuyuan.miaogongzi.net/
+4、猫猫外链： http://mmwl.88wg.top/  不能在线编辑
 
-5.晴园:
-http://52qy.vaiwan.cn/up.php
+5、惜染 https://mpimg.cn/  不能在线编辑
 
-6.tigerroot:
-https://pan.tigerroot.cn/
+6.OpenDrive: https://www.opendrive.com/   能在线编辑，慢
 
-7、猫猫外链： 
-http://mmwl.88wg.top/
+7.晴园: http://52qy.vaiwan.cn/up.php  打不开了
 
-8、云星、吾爱云盘（完全免费）
-https://pan.css.lc/
+8.tigerroot: https://pan.tigerroot.cn/   停运
 
-Pan云盘APP、密码:49mz
-https://wwc.lanzoub.com/b0erzmzqf 
+9、云星、吾爱云盘（完全免费） https://pan.css.lc/   能在线编辑
 
-9、nite07网盘
-https://share.nite07.com
+Pan云盘APP、密码:49mz https://wwc.lanzoub.com/b0erzmzqf
 
-10、ifilespace
-https://demo.ifile.space/main
+10、nite07网盘 https://share.nite07.com
 
-11、惜染
-https://mpimg.cn/
+11、ifilespace https://demo.ifile.space/main
 
-12、
-https://cloud.06dn.com/login
+12、七彩云存储：  https://cloud.06dn.com/login
 
-https://pan.fgboke.com
+13、https://pan.fgboke.com  打不开
 
-http://zuoye.free.fr/index.php
+14、豆子外链： http://zuoye.free.fr/index.php   限制文件格式
 
-https://www.lingshulian.com/
+15、棱束链： https://www.lingshulian.com/
 
-https://my.ksust.com/kstore.htm
+16、可直链下载的免费存储空间：https://my.ksust.com/kstore.htm
 
-https://pan.leffs.cn/Login
-
-https://demo.ifile.space/main
+17、乐分发存储：https://pan.leffs.cn/Login
 
 
 ## 短链接制作网址：哪个稳定自己测试。
