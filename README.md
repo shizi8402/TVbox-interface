@@ -96,25 +96,19 @@ http://www.36nu.com/apiTest
 
 ### 接口
 
-接口1:http://home.jundie.top:81/668.json 挂了
+接口1:http://刚刚.live/猫
 
-接口2:https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/qiaoji.json 挂了
+接口2:http://maoyingshi.cc/tvbox/云星日记/1.json
 
-接口3:http://刚刚.live/猫
+接口3:https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
-接口4:http://maoyingshi.cc/tvbox/云星日记/1.json
+接口4：https://gitea.com/Pandora2277/TV/raw/branch/main/Box.json
 
-接口5:https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+接口5：https://freed.yuanhsing.cf/TVBox/meowcf.json
 
-接口6：https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/meowcf.json 挂了
+接口6：http://home.jundie.top:81/TVBox/yosakoi.json
 
-接口7：https://gitea.com/Pandora2277/TV/raw/branch/main/Box.json
-
-接口8：https://freed.yuanhsing.cf/TVBox/meowcf.json
-
-接口9：http://home.jundie.top:81/TVBox/yosakoi.json
-
-接口10：http://152.136.125.181:81/MM/dianbo/yeshijieC.txt
+接口7：http://152.136.125.181:81/MM/dianbo/yeshijieC.txt
 
 ## TVBox配置编辑器：
 
