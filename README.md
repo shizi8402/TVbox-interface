@@ -133,10 +133,6 @@ https://github.com/cloudreve/Cloudreve
 
 ## 比较牛逼的仓库：
 
-唐长老：Tangsan99999 
-
-https://github.com/xingleiwu/TVBoxOSC-2
-
 o0HalfLife0o：
 
 https://github.com/o0HalfLife0o/TVBoxOSC
