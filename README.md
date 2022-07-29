@@ -110,9 +110,9 @@ http://www.36nu.com/apiTest
 
 ### 接口
 
-接口1:http://home.jundie.top:81/668.json
+接口1:http://home.jundie.top:81/668.json 挂了
 
-接口2:https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/qiaoji.json
+接口2:https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/qiaoji.json 挂了
 
 接口3:http://刚刚.live/猫
 
@@ -120,7 +120,7 @@ http://www.36nu.com/apiTest
 
 接口5:https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
-接口6：https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/meowcf.json
+接口6：https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/meowcf.json 挂了
 
 接口7：https://gitea.com/Pandora2277/TV/raw/branch/main/Box.json
 
