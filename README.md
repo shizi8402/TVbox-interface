@@ -4,23 +4,23 @@
 
 - [使用方法](./usage.md)
 
-### TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，没做测试推荐。
+### TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，不做测试推荐。
 
-1.比邻（TXT支持编辑）:收费啦。富裕的可以使用。 https://pan.bilnn.com/api/v3/share/invite/bmB58Te
+1、比邻（TXT支持编辑）:收费啦。富裕的可以使用。 https://pan.bilnn.com/api/v3/share/invite/bmB58Te
 
-2.往事、彩虹: https://wp.wangshi520.com/   不能在线编辑
+2、往事、彩虹: https://wp.wangshi520.com/   不能在线编辑
 
-3.书源: https://shuyuan.miaogongzi.net/   不能在线编辑
+3、书源: https://shuyuan.miaogongzi.net/   不能在线编辑
 
 4、猫猫外链： http://mmwl.88wg.top/  不能在线编辑
 
 5、惜染 https://mpimg.cn/  不能在线编辑
 
-6.OpenDrive: https://www.opendrive.com/   能在线编辑，慢
+6、OpenDrive: https://www.opendrive.com/   能在线编辑，慢
 
-7.晴园: http://52qy.vaiwan.cn/up.php  打不开了
+7、晴园: http://52qy.vaiwan.cn/up.php  打不开了
 
-8.tigerroot: https://pan.tigerroot.cn/   停运
+8、tigerroot: https://pan.tigerroot.cn/   停运
 
 9、云星、吾爱云盘（完全免费） https://pan.css.lc/   能在线编辑
 
@@ -63,7 +63,8 @@ http://mtw.so/
 
 https://app.short.io/
 
-壁纸：
+##壁纸：
+
 http://www.kf666888.cn/api/tvbox/img
 
 https://picsum.photos/1280/720/?blur=10
