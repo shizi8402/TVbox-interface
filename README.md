@@ -42,7 +42,13 @@ Pan云盘APP、密码:49mz https://wwc.lanzoub.com/b0erzmzqf
 
 17、乐分发存储：https://pan.leffs.cn/Login
 
+18、https://gitea.com/
 
+19、https://gitee.com/
+
+20、云储 https://yunchu.cxoip.com/
+
+21、腾讯云 https://coding.net/
 ## 短链接制作网址：哪个稳定自己测试。
 
 https://gg.gg
@@ -145,7 +151,7 @@ https://github.com/o0HalfLife0o/TVBoxOSC
 
 https://github.com/q215613905/TVBoxOS
 
-官仓：终结与2022年7月18日。封仓。
+官仓：终结于2022年7月18日。封仓。
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
 
