@@ -63,6 +63,8 @@ http://mtw.so/
 
 https://app.short.io/
 
+https://sd4.cn/ 
+
 ## 壁纸：
 
 http://www.kf666888.cn/api/tvbox/img
@@ -109,6 +111,8 @@ http://www.36nu.com/apiTest
 接口6：http://home.jundie.top:81/TVBox/yosakoi.json
 
 接口7：http://152.136.125.181:81/MM/dianbo/yeshijieC.txt
+
+接口8：https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
 
 ## TVBox配置编辑器：
 
