@@ -178,6 +178,7 @@ MXPlayer-Pro-1.46.10高级解锁版：
 https://tsq.lanzouf.com/b0c4p1nyf
 密码:123
 
+MD5获取小工具：http://www.metools.info/
 
 ### Stargazers over time
 
