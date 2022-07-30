@@ -180,6 +180,8 @@ https://tsq.lanzouf.com/b0c4p1nyf
 
 MD5获取小工具：http://www.metools.info/
 
+MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
+
 ### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/xlc520/MaoTV.svg)](https://starchart.cc/xlc520/MaoTV)
