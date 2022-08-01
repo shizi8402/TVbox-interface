@@ -192,6 +192,15 @@ https://github.com/wing0110210317/TvJar
 
 https://github.com/q215613905/TvJar  
 
+## 电脑修改 apk 所需软件 
+ 1、下载解压编译器 AndroidKiller https://mydown.yesky.com/pcsoft/413552646.html  
+ 
+2、安装 java8 环境 http://soft.onlinedown.net/soft/10044859.htm 
+
+3、下载编码器， 
+
+改名为 ShakaApktool.jar 替换 AndroidKiller\bin\apktool\apktool https://bitbucket.org/iBotPeaches/apktool/downloads/
+
 ### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/dlgt7/TVbox-interface.svg)](https://starchart.cc/dlgt7/TVbox-interface)
