@@ -1,5 +1,5 @@
-TVBOX的XBiubiu规则
-XBiubiu 使用方法
+## TVBOX的XBiubiu规则
+## XBiubiu 使用方法
 { 
   "name": "韩剧在线", //------填网站名称 
   "tihuan": "cnzz.com",  
