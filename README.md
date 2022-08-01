@@ -184,6 +184,14 @@ MD5获取小工具：http://www.metools.info/
 
 MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
 
+## jar修改学习：
+
+https://github.com/Tangsan99999/TvJar
+
+https://github.com/wing0110210317/TvJar 
+
+https://github.com/q215613905/TvJar  
+
 ### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/xlc520/MaoTV.svg)](https://starchart.cc/xlc520/MaoTV)
