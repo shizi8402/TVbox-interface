@@ -194,5 +194,5 @@ https://github.com/q215613905/TvJar
 
 ### Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/xlc520/MaoTV.svg)](https://starchart.cc/xlc520/MaoTV)
+[![Stargazers over time](https://starchart.cc/dlgt7/TVbox-interface.svg)](https://starchart.cc/dlgt7/TVbox-interface)
 
