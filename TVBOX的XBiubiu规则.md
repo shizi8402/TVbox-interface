@@ -2,10 +2,15 @@
 ## XBiubiu 使用方法
 { 
   "name": "韩剧在线", //------填网站名称 
+  
   "tihuan": "cnzz.com",  
+  
   "url": "https://www.52kpop1.com",  //------填网站链接 
+  
   "shouye": "4", 
+  
   "fenlei": "电影$/vodshow/1--------#韩剧$/vodshow/2--------#韩综$/vodshow/3--------", //------网站列表的分类 
+  
   "houzhui": "---.html", //------网站翻页链接的后缀 
  
 ## ![68747470733a2f2f6c6975363733636e2e6769746875622e696f2f626f782f7375622f5862622f6230312e6a7067](https://user-images.githubusercontent.com/102397160/182079920-903aeb76-6c7d-4c58-9324-5602fd26aed2.jpg)
@@ -83,29 +88,17 @@
 ## ![68747470733a2f2f6c6975363733636e2e6769746875622e696f2f626f782f7375622f5862622f6230332e6a7067](https://user-images.githubusercontent.com/102397160/182080617-5d5578a1-479a-4e38-bd63-eb865eb28e5a.jpg)
 
   "bfjiequshuzuqian": "class=\"stui-content__playlist", //------播放截取的列表数组的前关键词 
-  
   "bfjiequshuzuhou": "</ul>", //------播放截取的列表数组的后关键词
-  
   "zhuangtaiqian": "更新：</span>", //------下面的是详情内容可以不动 
-  
   "zhuangtaihou": "</p>", 
-  
   "daoyanqian": "导演：</span>", 
-  
   "daoyanhou": "</p>",
-  
   "zhuyanqian": "主演：</span>", 
-  
   "zhuyanhou": "</p>", <br />
-  
   "juqingqian": "简介：</span>",
-  
   "juqinghou": "</div>",
-  
   "bfyshifouercijiequ": "0", 
-  
   "bfyjiequqian": "空", 
-  
   "bfyjiequhou": "空", 
   
 ## ![68747470733a2f2f6c6975363733636e2e6769746875622e696f2f626f782f7375622f5862622f6230342e6a7067](https://user-images.githubusercontent.com/102397160/182080684-eb767c6f-3e48-4d99-a162-8c17608a1a21.jpg)
