@@ -2,11 +2,17 @@
 ## XBiubiu 使用方法
 { 
   "name": "韩剧在线", //------填网站名称 
-  "tihuan": "cnzz.com",  
-  "url": "https://www.52kpop1.com",  //------填网站链接 
+ 
+ "tihuan": "cnzz.com",  
+ 
+ "url": "https://www.52kpop1.com",  //------填网站链接 
+  
   "shouye": "4", 
+  
   "fenlei": "电影$/vodshow/1--------#韩剧$/vodshow/2--------#韩综$/vodshow/3--------", //------网站列表的分类 
-  "houzhui": "---.html", //------网站翻页链接的后缀 
+ 
+ "houzhui": "---.html", //------网站翻页链接的后缀 
+ 
 ##![68747470733a2f2f6c6975363733636e2e6769746875622e696f2f626f782f7375622f5862622f6230312e6a7067](https://user-images.githubusercontent.com/102397160/182079920-903aeb76-6c7d-4c58-9324-5602fd26aed2.jpg)
 
   "shifouercijiequ": "0",  //------截取的列表数组是否需要二次截取，0不需要，1需要
