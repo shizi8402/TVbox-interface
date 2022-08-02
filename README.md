@@ -193,6 +193,11 @@ https://github.com/wing0110210317/TvJar
 https://github.com/q215613905/TvJar  
 
 ## 电脑修改 apk 所需软件 
+
+0、首推吾爱破解工具包：
+
+https://down.52pojie.cn/Tools/
+
  1、下载解压编译器 AndroidKiller https://mydown.yesky.com/pcsoft/413552646.html  
  
 2、安装 java8 环境 http://soft.onlinedown.net/soft/10044859.htm 
