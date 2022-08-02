@@ -204,6 +204,10 @@ https://down.52pojie.cn/Tools/
 
 改名为 ShakaApktool.jar 替换 AndroidKiller\bin\apktool\apktool https://bitbucket.org/iBotPeaches/apktool/downloads/
 
+## jar包缝合教程：暴力缝合，非代码修改。
+
+
+
 ### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/dlgt7/TVbox-interface.svg)](https://starchart.cc/dlgt7/TVbox-interface)
