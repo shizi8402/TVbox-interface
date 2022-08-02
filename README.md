@@ -24,9 +24,7 @@
 
 8、tigerroot: https://pan.tigerroot.cn/   停运
 
-9、云星、吾爱云盘（完全免费） https://pan.css.lc/   能在线编辑
-
-Pan云盘APP、密码:49mz https://wwc.lanzoub.com/b0erzmzqf
+9、云星 https://pan.css.lc/   收费了，能在线编辑
 
 10、nite07网盘 https://share.nite07.com
 
