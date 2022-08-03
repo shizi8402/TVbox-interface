@@ -60,7 +60,7 @@
 
 ## 短链接制作网址：哪个稳定自己测试。
 
-https://gg.gg                 
+https://gg.gg/              
 https://77url.com/                
 https://qiu.moe/                
 https://www.c1n.cn/
@@ -71,12 +71,12 @@ http://mtw.so/
 https://app.short.io/
 https://sd4.cn/
 https://pqu.cn/
-https://88d.cn
-https://loveer.win
-https://mtool.chinaz.com/dwz
-https://waurl.cn
-https://tshort.lfabu.com
-https://dwz.dk
+https://88d.cn/
+https://loveer.win/
+https://mtool.chinaz.com/dwz/
+https://waurl.cn/
+https://tshort.lfabu.com/
+https://dwz.dk/
 
 ## 壁纸：
 
