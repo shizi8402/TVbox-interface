@@ -74,6 +74,8 @@ https://app.short.io/
 
 https://sd4.cn/ 
 
+https://pqu.cn/
+
 ## 壁纸：
 
 http://www.kf666888.cn/api/tvbox/img
