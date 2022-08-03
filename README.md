@@ -111,7 +111,9 @@ http://www.36nu.com/apiTest
 
 接口2:http://maoyingshi.cc/tvbox/云星日记/1.json
 
-接口3：https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
+接口3:https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
+
+接口4:http://xiaoz123.ysepan.com/
 
 
 
