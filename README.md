@@ -206,7 +206,9 @@ https://down.52pojie.cn/Tools/
 
 ## jar包缝合教程：暴力缝合，非代码修改。
 
+准备工作：MT管理器或者NP管理器，A包要用的包，B包要导出的包。
 
+开始：B包中merge重命名，展开重命名的merge，选中需要导出的文件，导出。打开A包，导入刚才导出的重命名的merge文件，保存退出。A包就是缝合好的包。多试几次，关键是找个好用的MT或者NP。
 
 ### Stargazers over time
 
