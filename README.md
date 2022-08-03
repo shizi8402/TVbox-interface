@@ -233,7 +233,6 @@ https://down.52pojie.cn/Tools/
 6、导入完成后的样子：
 
 ![6](https://user-images.githubusercontent.com/102397160/182571468-3f15da3f-ac7b-45b0-9e37-c4959692d24d.png)
-
 ![7](https://user-images.githubusercontent.com/102397160/182571486-1d78730b-0698-46cb-9af9-a4128eee8cd7.png)
 
 试试吧，不一定对。
