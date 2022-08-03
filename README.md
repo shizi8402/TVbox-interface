@@ -68,30 +68,15 @@ http://pesc.pw/
 https://0dlj.cn/                 
 https://0a.fit/                 
 http://mtw.so/
-
-
-
-
-
-
-
 https://app.short.io/
-
 https://sd4.cn/
-
 https://pqu.cn/
-
- https://88d.cn
-
- https://loveer.win
-
- https://mtool.chinaz.com/dwz
-
- https://waurl.cn
-
- https://tshort.lfabu.com
-
- https://dwz.dk
+https://88d.cn
+https://loveer.win
+https://mtool.chinaz.com/dwz
+https://waurl.cn
+https://tshort.lfabu.com
+https://dwz.dk
 
 ## 壁纸：
 
