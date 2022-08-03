@@ -6,51 +6,57 @@
 
 ### TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，不做测试推荐。
 
-0、瑞典外链网盘，试了一下，感觉还行，持不持久，友不友好，自己测试。https://anonfiles.com/
+1、https://gitea.com/
 
-1、比邻（TXT支持编辑）:收费啦。富裕的可以使用。 https://pan.bilnn.com/api/v3/share/invite/bmB58Te
+2、https://gitee.com/
 
-2、往事、彩虹: https://wp.wangshi520.com/   不能在线编辑
+3、云储： https://yunchu.cxoip.com/
 
-3、书源: https://shuyuan.miaogongzi.net/   不能在线编辑
+4、腾讯云： https://coding.net/
 
-4、猫猫外链： http://mmwl.88wg.top/  不能在线编辑
+5、瑞典外链网盘：https://anonfiles.com/
 
-5、惜染 https://mpimg.cn/  不能在线编辑
+6、比邻： https://pan.bilnn.com 收费了，能在线编辑
 
-6、OpenDrive: https://www.opendrive.com/   能在线编辑，慢
+7、往事、彩虹: https://wp.wangshi520.com/ 不能在线编辑
 
-7、晴园: http://52qy.vaiwan.cn/up.php  打不开了
+8、猫猫外链： http://mmwl.88wg.top/ 不能在线编辑
 
-8、tigerroot: https://pan.tigerroot.cn/   停运
+9、惜染 https://mpimg.cn/ 不能在线编辑
 
-9、云星 https://pan.css.lc/   收费了，能在线编辑
+10、枫铭网盘： https://pan.dkpoi.com 不能编辑
 
-10、nite07网盘 https://share.nite07.com
+11、https://out.zxglife.top 不能编辑
 
-11、ifilespace https://demo.ifile.space/main
+12、https://pan.05kr.com 不能编辑
 
-12、七彩云存储：  https://cloud.06dn.com/login
+13、书源: https://shuyuan.miaogongzi.net/ 不能在线编辑
 
-13、https://pan.fgboke.com  打不开
+14、OpenDrive: https://www.opendrive.com/ 能在线编辑，慢
 
-14、豆子外链： http://zuoye.free.fr/index.php   限制文件格式
+15、云星 https://pan.css.lc/ 收费了，能在线编辑
 
-15、棱束链： https://www.lingshulian.com/
+16、nite07网盘 https://share.nite07.com
 
-16、可直链下载的免费存储空间：https://my.ksust.com/kstore.htm
+17、ifilespace https://demo.ifile.space/main
 
-17、乐分发存储：https://pan.leffs.cn/Login
+18、七彩云存储： https://cloud.06dn.com/login
 
-18、https://gitea.com/
+19、豆子外链： http://zuoye.free.fr/index.php 限制文件格式
 
-19、https://gitee.com/
+20、棱束链： https://www.lingshulian.com/
 
-20、云储 https://yunchu.cxoip.com/
+21、可直链下载的免费存储空间：https://my.ksust.com/kstore.htm
 
-21、腾讯云 https://coding.net/
+22、乐分发存储：https://pan.leffs.cn/Login
 
-22、https://www.jsdelivr.com/
+23、https://www.jsdelivr.com/
+
+24、恩华云盘：https://pan.ehvip.cn
+
+25、诺灸：https://www.cloudewl.cn
+
+26、代码托管：https://agit.ai
 
 ## 短链接制作网址：哪个稳定自己测试。
 
@@ -72,9 +78,21 @@ http://mtw.so/
 
 https://app.short.io/
 
-https://sd4.cn/ 
+https://sd4.cn/
 
 https://pqu.cn/
+
+ https://88d.cn
+
+ https://loveer.win
+
+ https://mtool.chinaz.com/dwz
+
+ https://waurl.cn
+
+ https://tshort.lfabu.com
+
+ https://dwz.dk
 
 ## 壁纸：
 
