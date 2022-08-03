@@ -208,7 +208,7 @@ https://down.52pojie.cn/Tools/
 
 准备工作：MT管理器或者NP管理器，A包要用的包，B包要导出的包。
 
-开始：B包中merge重命名，展开重命名的merge，选中需要导出的文件，导出。打开A包，导入刚才导出的重命名的merge文件，保存退出。A包就是缝合好的包。多试几次，关键是找个好用的MT或者NP。
+开始：A包中merge重命名，展开重命名的merge，选中需要导出的文件，导出。打开B包，导入刚才导出的重命名的merge文件，保存退出。B包就是缝合好的包。多试几次，关键是找个好用的MT或者NP。
 
 1、打开需要导出的包：
 
@@ -222,7 +222,7 @@ https://down.52pojie.cn/Tools/
 
 ![3](https://user-images.githubusercontent.com/102397160/182570767-a235339c-dbf6-4ce2-8602-67ea06d1c5c3.png)
 
-4、随便取个名字，自己能找到就行，截图和上边综述有可能矛盾，理解就好。
+4、随便取个名字，自己能找到就行，理解就好。
 
 ![4](https://user-images.githubusercontent.com/102397160/182571018-264c1410-a124-43c3-af71-00aea1c7dce9.png)
 
