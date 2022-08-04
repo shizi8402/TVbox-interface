@@ -170,6 +170,14 @@ https://github.com/o0HalfLife0o/TVBoxOSC
 
 https://github.com/q215613905/TVBoxOS
 
+takagen99：
+
+https://github.com/takagen99/TVBoxOSC
+
+pluto-player：不开源
+
+https://github.com/pluto-player/updates
+
 官仓：终结于2022年7月18日。封仓。
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
