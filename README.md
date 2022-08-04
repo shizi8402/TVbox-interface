@@ -206,6 +206,21 @@ MD5获取小工具：http://www.metools.info/
 
 MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
 
+## json内资源格式参数介绍
+
+{"key":"key_〔资源名称〕",
+"name":"资源名称",
+"type":0,
+"api":"csp_〔jar内文件名称〕",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"jar":"〔jar文件地址〕",
+"ext":"〔txt json文件地址〕",
+"playUrl": "〔播放解析地址〕", 
+"categories":["〔自定义资源列表〕",
+"〔自定义资源列表〕"] },
+
 ## jar修改学习：
 
 https://github.com/Tangsan99999/TvJar
