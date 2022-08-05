@@ -219,7 +219,7 @@ MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
 "ext":"〔txt json文件地址〕",
 "playUrl": "〔播放解析地址〕", 
 "categories":["〔自定义资源列表〕",
-"〔自定义资源列表〕"] },
+"〔自定义资源列表〕"] }
 
 ## jar修改学习：
 
