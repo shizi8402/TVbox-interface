@@ -166,6 +166,8 @@ o0HalfLife0o：
 
 https://github.com/o0HalfLife0o/TVBoxOSC
 
+https://github.com/o0HalfLife0o/AlphaTV
+
 俊佬：
 
 https://github.com/q215613905/TVBoxOS
