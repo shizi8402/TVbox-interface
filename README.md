@@ -173,6 +173,10 @@ https://github.com/o0HalfLife0o/AlphaTV
 
 https://github.com/q215613905/TVBoxOS
 
+clanTV：
+
+https://github.com/clanTV/clanTV
+
 takagen99：
 
 https://github.com/takagen99/TVBoxOSC
