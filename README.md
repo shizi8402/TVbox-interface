@@ -129,14 +129,15 @@ http://www.36nu.com/apiTest
 
 接口1:http://刚刚.live/猫
 
-接口2:http://maoyingshi.cc/tvbox/云星日记/1.json
+接口2:http://maoyingshi.cc/tvbox/云星日记/1.m3u8
 
 接口3:https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
 
 接口4:http://xiaoz123.ysepan.com/
 
+接口5：https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json
 
-
+接口6：https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json
 
 
 ## TVBox配置编辑器：
