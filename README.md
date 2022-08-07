@@ -228,7 +228,7 @@ MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
 "categories":["〔自定义资源列表〕",
 "〔自定义资源列表〕"] }
 
-## jar修改学习：要想实现jar包自由，多关注以下仓库，慢慢积累经验学习吧。看看谁常更新，盯住学习就行。
+## jar修改学习：要想实现jar包自由，多关注以下仓库，慢慢积累经验学习吧。看看谁常更新，盯住学习就行。jar打包：在jar仓库里依次点击：actions-workflows-spider jar gen cl-run workflow。和打包TVBOX一样。
 
 https://github.com/Tangsan99999/TvJar
 
