@@ -234,7 +234,7 @@ jar打包：在jar仓库里依次点击：actions-workflows-spider jar gen cl-ru
 
 Fork始点，地位特殊：https://github.com/Tangsan99999/TvJar
 
-https://github.com/aaccer/TvJar/fork
+https://github.com/aaccer/TvJar
 
 https://github.com/Aurorakds/Boxyuanma
 
