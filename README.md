@@ -228,13 +228,29 @@ MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
 "categories":["〔自定义资源列表〕",
 "〔自定义资源列表〕"] }
 
-## jar修改学习：
+## jar修改学习：小白要想实现jar包自由，多关注以下仓库，慢慢积累经验学习吧。看看谁常更新，盯住1-2个学习就行。
 
 https://github.com/Tangsan99999/TvJar
 
-https://github.com/wing0110210317/TvJar 
+https://github.com/aaccer/TvJar/fork
 
-https://github.com/q215613905/TvJar  
+https://github.com/Aurorakds/Boxyuanma
+
+https://github.com/bi-andenghuo/TvJar-tangsan
+
+https://github.com/deionCube/TvJar
+
+https://github.com/fangzj1991/TvJar
+
+https://github.com/fujunchao87/TvJar
+
+https://github.com/harrybot0827/TvJar
+
+https://github.com/Kimlee-cmd/TvJar
+
+https://github.com/Kvymin/CatVodTVSpider
+
+https://github.com/lulinlin600/TvJar
 
 ## 电脑修改 apk 所需软件 
 
