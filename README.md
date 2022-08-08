@@ -142,7 +142,7 @@ http://www.36nu.com/apiTest
 
 ## TVBox配置编辑器：
 
-http://118.190.244.195/cat125/
+https://kvymin.github.io/CatVodTVJsonEditor/
 
 ## 给TVbox站源添加符号:
 
