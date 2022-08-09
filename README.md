@@ -64,11 +64,11 @@ https://gg.gg
 
 https://77url.com 
 
-https://qiu.moe 
+https://qiu.moe     x
 
 https://www.c1n.cn
 
-http://pesc.pw
+http://pesc.pw     x
 
 https://0dlj.cn
 
@@ -76,7 +76,7 @@ https://0a.fit
 
 http://mtw.so
 
-https://app.short.io
+https://app.short.io    x
 
 https://sd4.cn
 
