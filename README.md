@@ -30,7 +30,7 @@
 
 12、https://pan.05kr.com 不能编辑
 
-13、书源: https://shuyuan.miaogongzi.net/ 不能在线编辑
+13、书源: https://shuyuan.miaogongzi.net/ 不能在线编辑,打不开了。
 
 14、OpenDrive: https://www.opendrive.com/ 能在线编辑，慢
 
