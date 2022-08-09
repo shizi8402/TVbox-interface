@@ -238,31 +238,9 @@ jar打包：在jar仓库里依次点击：actions-workflows-spider jar gen cl-ru
 
 Fork始点，地位特殊：https://github.com/Tangsan99999/TvJar
 
-https://github.com/670637080/TVBox-Jar
-
-https://github.com/aaccer/TvJar
-
-https://github.com/Aurorakds/Boxyuanma
-
-https://github.com/bi-andenghuo/TvJar-tangsan
-
-https://github.com/deionCube/TvJar
-
-https://github.com/fangzj1991/TvJar
-
-https://github.com/fujunchao87/TvJar
-
-https://github.com/harrybot0827/TvJar
-
 https://github.com/Kimlee-cmd/TvJar
 
 https://github.com/Kvymin/CatVodTVSpider
-
-https://github.com/lulinlin600/TvJar
-
-https://github.com/tongqingzhen/TvJar
-
-https://github.com/zwm001/TvJar
 
 ## 电脑修改 apk 所需软件 
 
