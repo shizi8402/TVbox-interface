@@ -163,27 +163,31 @@ https://github.com/cloudreve/Cloudreve
 
 ## 比较牛逼的仓库：
 
+唐三大佬仓库地址：https://github.com/Tangsan99999/TvJar
+
+巧技大佬仓库地址：https://gitea.com/qiaoji
+
+俊于大佬+唐三大佬+影魔大佬=官仓延续：
+
+https://github.com/q215613905/TVBoxOS
+
+pluto-player：不开源 A佬。魔改，改动大，功能多，能在线升级，目前不支持低版本安卓。
+
+https://github.com/pluto-player/updates
+
+takagen99：解除**屏蔽
+
+https://github.com/takagen99/TVBoxOSC
+
 o0HalfLife0o：
 
 https://github.com/o0HalfLife0o/TVBoxOSC
 
 https://github.com/o0HalfLife0o/AlphaTV
 
-俊佬：
-
-https://github.com/q215613905/TVBoxOS
-
 clanTV：
 
 https://github.com/clanTV/clanTV
-
-takagen99：
-
-https://github.com/takagen99/TVBoxOSC
-
-pluto-player：不开源
-
-https://github.com/pluto-player/updates
 
 FongMi-TV
 
