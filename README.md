@@ -185,6 +185,10 @@ pluto-player：不开源
 
 https://github.com/pluto-player/updates
 
+FongMi-TV
+
+https://github.com/FongMi/TV
+
 官仓：终结于2022年7月18日。封仓。
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
